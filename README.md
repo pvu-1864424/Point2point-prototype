@@ -17,6 +17,7 @@ During the research process, we found a lot of articles and forums regarding cer
 
 Using extensive research and gathering data from our target audience, we would like to create a program that provides knowledge and makes daily life easier for our users. Our ultimate goal is for our users is to be relieved from the stress that they carry with them day to day that’s created from basic worries like whether or not they’ll be able to access certain facilities. We have hopes that our product will be able to help serve handicapped, disabled, and anyone else looking for a service like ours.
 
+## **Point2Point Prototype**
 Check out our prototype here: [Point2Point Figma Prototype](https://www.figma.com/proto/S6CQwNrzy5p2p5E6fPnQs3wO/Point2Point?node-id=0%3A1&scaling=scale-down)
 
 *Copyrights: This project is a project for INFO200: Intellectual Foundations of Informatics course. If you have any questions or feedback regarding this website, please let us know at [Phuong's email](mailto:prokhanhphuong@gmail.com)* 
