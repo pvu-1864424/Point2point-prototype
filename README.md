@@ -1,1 +1,1 @@
-# Point2point-prototype
+# Point2point
